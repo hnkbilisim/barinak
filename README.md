@@ -1,3 +1,1 @@
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Tüm görevler tamamlandığında deneyime neşe katın :tada:
+@octocat :+1: Bu PR harika görünüyor - birleştirmeye hazır! :shipit: :poop:
