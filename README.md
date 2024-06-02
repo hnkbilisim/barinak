@@ -1,3 +1,3 @@
-**Kalın** yazı için çift yıldız kullanılır.
-*İtalik* yazı için tek yıldız kullanılır.
-Altı çizili yazı için çift alt tire (`__`) kullanılır.
+<strong>Kalın</strong> yazı için <strong>etiket</strong> kullanılır.
+<em>İtalik</em> yazı için <em>etiket</em> kullanılır.
+Altı çizili yazı için <u>etiket</u> kullanılır.
