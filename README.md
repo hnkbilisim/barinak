@@ -1,14 +1,20 @@
-## Proje Açıklaması
+# Kurulum Talimatları
 
-TaskMaster, kişisel ve profesyonel görevlerinizi yönetmenize yardımcı olan çok yönlü bir görev yönetim aracıdır. Günlük görevlerinizi düzenli tutarak verimliliğinizi artırmayı amaçlar.
+Bu talimatlar, Windows Forms kullanarak basit bir barınak uygulamasını bilgisayarınızda nasıl kurabileceğinizi adım adım açıklar. Projenin çalışabilmesi için gerekli bağımlılıkların ve kurulum komutlarının nasıl kullanılacağını öğrenin.
 
-### Problemi Belirleme
-Modern dünyada, insanlar işlerini ve kişisel görevlerini yönetmekte zorlanıyor. Unutulan işler, karışık görev listeleri ve zaman yönetimi sorunları sıkça karşılaşılan problemler arasında yer alıyor.
+## Gereksinimler
 
-### Faydaları
-- **Organizasyon:** Görevlerinizi kategorilere ayırarak düzenli bir şekilde yönetmenizi sağlar.
-- **Hatırlatıcılar:** Belirli zamanlarda hatırlatıcılar ayarlayarak hiçbir görevi unutmamanızı sağlar.
-- **İşbirliği:** Ekip arkadaşlarınızla görevlerinizi paylaşarak işbirliğini artırır.
-- **Raporlama:** Detaylı raporlar ve analizlerle performansınızı takip etmenizi sağlar.
+Aşağıdaki yazılımların bilgisayarınızda yüklü olması gerekmektedir:
 
-TaskMaster, hem bireysel kullanıcılar hem de küçük ekipler için mükemmel bir çözümdür.
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
+- [MySQL Server](https://dev.mysql.com/downloads/mysql/)
+- [MySQL Connector/NET](https://dev.mysql.com/downloads/connector/net/)
+
+## Adım 1: Projeyi Klonlayın
+
+İlk olarak, GitHub deposunu bilgisayarınıza klonlayın:
+
+```bash
+git clone https://github.com/kullanici_adi/barinak-uygulamasi.git
+cd barinak-uygulamasi
