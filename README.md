@@ -1,6 +1,3 @@
-<h1>Başlık 1</h1>
-<h2>Başlık 2</h2>
-<h3>Başlık 3</h3>
-<h4>Başlık 4</h4>
-<h5>Başlık 5</h5>
-<h6>Başlık 6</h6>
+**Kalın** yazı için çift yıldız kullanılır.
+*İtalik* yazı için tek yıldız kullanılır.
+Altı çizili yazı için çift alt tire (`__`) kullanılır.
