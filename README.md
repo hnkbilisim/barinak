@@ -5,3 +5,4 @@ def hello_world():
     print("Hello, world!")
 ```
 ## Diğer Talimatlar
+Diğer açıklamalar ile devam ediyor.
