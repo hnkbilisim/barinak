@@ -9,13 +9,14 @@ Bu bölüm, projeye nasıl başlayacağınızı açıklar.
 ### Gereksinimler
 
 Bu proje için aşağıdaki yazılımlar gereklidir:
-- Python 3.x
-- Git
+- Visual Studio
+- Laragon
+- HeideSQL
 
 ### Kurulum
 
 Projeyi yerel makinenize klonlamak için aşağıdaki adımları izleyin:
 
 ```bash
-git clone https://github.com/kullanici/proje-adi.git
+git https://github.com/hnkbilisim/barinak.git
 cd proje-adi
