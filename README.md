@@ -1,10 +1,14 @@
-İşte basit bir dipnot[^1].
+> [!NOTE]
+> İçeriği hızlıca tararken dahi kullanıcıların bilmesi gereken yararlı bilgiler.
 
-Bir dipnot aynı zamanda birden fazla satıra sahip olabilir[^2].
+> [!TIP]
+> İşleri daha iyi veya daha kolay yapmak için faydalı tavsiyeler.
 
----
+> [!IMPORTANT]
+> Kullanıcıların hedeflerine ulaşmaları için bilmesi gereken temel bilgiler.
 
-[^1]: Kaynak.
-[^2]: Dipnot içinde satır aralıkları eklemek için, yeni satırlara 2 boşlukla başlayın.
-  Bu ikinci satır.
+> [!WARNING]
+> Sorunları önlemek için hemen kullanıcı dikkatini çekmesi gereken acil bilgiler.
 
+> [!CAUTION]
+> Belirli eylemlerin riskleri veya olumsuz sonuçları hakkında tavsiyeler.
