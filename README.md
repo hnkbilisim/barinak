@@ -1,10 +1,7 @@
-<details>
-  <summary>Detaylı Açıklama</summary>
+1. İlk öğe
+2. İkinci öğe
+3. Üçüncü öğe
 
-  Bu bölüm, detaylı açıklamaları içerir.
-
-  Örneğin:
-  - İlk detay
-  - İkinci detay
-  - Üçüncü detay
-</details>
+- Birinci madde
+- İkinci madde
+- Üçüncü madde
