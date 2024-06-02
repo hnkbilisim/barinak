@@ -1,8 +1,4 @@
-## Örnek Kod
-Aşağıdaki python kodu bir örnektir.
-```python
-def hello_world():
-    print("Hello, world!")
-```
-## Diğer Talimatlar
-Diğer açıklamalar ile devam ediyor.
+| Başlık 1 | Başlık 2 |
+|----------|----------|
+| Hücre 1  | Hücre 2  |
+| Hücre 3  | Hücre 4  |
