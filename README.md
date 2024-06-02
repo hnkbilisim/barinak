@@ -1,4 +1,10 @@
-| Başlık 1 | Başlık 2 |
-|----------|----------|
-| Hücre 1  | Hücre 2  |
-| Hücre 3  | Hücre 4  |
+<details>
+  <summary>Detaylı Açıklama</summary>
+
+  Bu bölüm, detaylı açıklamaları içerir.
+
+  Örneğin:
+  - İlk detay
+  - İkinci detay
+  - Üçüncü detay
+</details>
