@@ -1,4 +1,4 @@
-# Proje Adı
+# C# Form Barınak Uygulaması
 
 Bu proje, örnek bir README dosyasının nasıl oluşturulacağını göstermektedir.
 
